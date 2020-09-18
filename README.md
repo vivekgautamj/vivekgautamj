@@ -15,6 +15,8 @@
 
 <hr/>
 
+![Visitor Count](https://profile-counter.glitch.me/vivekgautamj/count.svg)
+
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekgautamj&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgautamj)](https://github.com/anuraghazra/github-readme-stats)
